@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/Talamantez/canopy-node-client/issues"
   },
-  "homepage": "https://github.com/Talamantez/canopy-node-client"
+  "homepage": "https://github.com/Talamantez/canopy-node-client",
+  "dependencies": {
+    "extend": "^2.0.0",
+    "type-check": "^0.3.1"
+  }
 }
